@@ -2,7 +2,7 @@ aws_region = "ap-southeast-1"
 
 # Bot
 bot_function_name = "bot"
-bot_function_memory_size = 512 # Recommend memory size is 1600MB
+bot_function_memory_size = 1600
 bot_role_name_prefix     = "bot-role-"
 
 # Bot event
