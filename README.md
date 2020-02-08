@@ -1,6 +1,8 @@
 # terraform-aws-lambda-bot
 
-A bot with AWS Lambda and Puppeteer and it is managed by Terraform
+A bot with AWS Lambda and Puppeteer and it is managed by Terraform. It also adds a CloudWatch event rule to trigger the bot regularly.
+
+[chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) is packaged as AWS Lambda layer to provide Chromium binary.
 
 ## Setup
 
