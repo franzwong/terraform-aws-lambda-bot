@@ -1,4 +1,4 @@
-# Bot
+# terraform-aws-lambda-bot
 
 A bot with AWS Lambda and Puppeteer and it is managed by Terraform
 
